@@ -95,27 +95,15 @@ ImportLineItem->TaxRate
 ImportProductVariant->Price
 ImportProductVariant->Attribute
 ImportProductVariant->Image
-->
-->
-->
-->
-->
-->
-->
-->
-->
-->
-->
-->
-->
-->
-->
-->
-->
-->
-->
-->
-->
+Review->Product
+Review->Customer
+ShippingMethod->TaxCategory
+ShippingMethod->ZoneRate
+ZoneRate->Zone
+ZoneRate->ShippingRate
+State->StateType
+TaxCategory->TaxRate
+Zone->Location
 
 
 overlap=false
